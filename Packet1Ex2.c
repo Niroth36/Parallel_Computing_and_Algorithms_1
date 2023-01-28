@@ -64,7 +64,7 @@ int main() {
    }
 
    // print the first n numbers of the first array (which now contain the n largest numbers)
-   printf("\nThe first %d numbers of the first array are: ", n);
+   printf("\nThe first %d numbers of the two arrays are: ", n);
    for (i=0; i < n; i++) {
       a[i] = c[i];
       printf("%d ", a[i]);
