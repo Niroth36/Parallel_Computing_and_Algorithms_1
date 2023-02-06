@@ -1,4 +1,4 @@
-# Parallel_Computing_and_Algorithms_1
+# Parallel_Sorting_with_MPI
 
 This first exercise of this semester is about parallel sorting with MPI.
 The Message Passing Interface (MPI) is an Application Program Interface that defines a model of parallel computing.
